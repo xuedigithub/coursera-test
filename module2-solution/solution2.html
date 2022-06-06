@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">    
+<title>Week 2 - Solution</title>
+<link rel="stylesheet" href="css/stylesheet.css">
+    
+</head>
+    
+<body>
+  <h1>My page</h1>  
+    <div class="container">
+    <div class="col-lg-3 col-md-6 col-sm-12 box"><p><span class="title1">Title1</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p></div>  
+   
+    <div class="col-lg-3 col-md-6 col-sm-12 box"><p><span class="title2">Title2</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p></div>
+        
+    <div class="col-lg-3 col-md-12 col-sm-12 box"><p><span class="title3">Title3</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p></div>    
+    </div>
+    
+</body>     
+</html>
